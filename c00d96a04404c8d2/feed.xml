@@ -5,16 +5,624 @@
 <link>https://raw.githubusercontent.com/dmacinnis88/5163f7e03b770a59/main/c00d96a04404c8d2/feed.xml</link>
 <description>Curated articles from the daily morning brief</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 20 Nov 2026 17:55:42 -0500</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:53:22 -0500</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/dmacinnis88/5163f7e03b770a59/main/c00d96a04404c8d2/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Nvidia plunges ~14% as SEC probe reportedly targets its accounting</title>
-<link>https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</link>
-<guid isPermaLink="false">alert-2026-11-20::https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</guid>
-<pubDate>Fri, 20 Nov 2026 17:55:42 -0500</pubDate>
+<title>Weather: Saturday, Nov 21</title>
+<link>https://forecast.weather.gov/MapClick.php?lat=38.8951&amp;lon=-77.0364</link>
+<guid isPermaLink="false">brief-2026-11-21::https://forecast.weather.gov/MapClick.php?lat=38.8951&amp;lon=-77.0364</guid>
+<pubDate>Sat, 21 Nov 2026 06:46:04 -0500</pubDate>
+<category>Weather</category>
+<description><![CDATA[<ul>
+<li><strong>Washington, DC:</strong> Partly sunny, high 66, low 51 tonight, light east winds around 5 mph. Rain is likely Sunday (70%). No alerts. <a href="https://forecast.weather.gov/MapClick.php?lat=38.8951&amp;lon=-77.0364">NWS</a></li>
+<li><strong>Boston, MA:</strong> Sunny, high 63 this morning, falling to around 57 this afternoon, low 48, east winds 2 to 8 mph. Rain is possible after 3 PM Sunday, ahead of a coastal storm Sunday night into Monday morning. No alerts. <a href="https://forecast.weather.gov/MapClick.php?lat=42.3601&amp;lon=-71.0589">NWS</a></li>
+<li><strong>Los Angeles, CA:</strong> Sunny, high 67, low 50, light west-northwest winds up to 5 mph. No alerts. <a href="https://forecast.weather.gov/MapClick.php?lat=34.0522&amp;lon=-118.2437">NWS</a></li>
+<li><strong>Cape Canaveral, FL:</strong> Showers likely between 11 AM and 1 PM, then a chance of thunderstorms (40%). High 79, easing to about 74 this afternoon, low 67, south winds 5 to 10 mph. A Flood Warning runs until 8 AM and a Rip Current Statement through 7 PM Sunday. Afternoon storms make launch weather iffy today; Sunday looks mostly sunny. <a href="https://forecast.weather.gov/MapClick.php?lat=28.3922&amp;lon=-80.6077">NWS</a></li>
+<li><strong>Boca Chica (Starbase), TX:</strong> Partly sunny, high 76, low 69, southeast winds 5 to 13 mph. No alerts, and conditions are benign. <a href="https://forecast.weather.gov/MapClick.php?lat=25.9971&amp;lon=-97.1566">NWS</a></li>
+</ul>]]></description>
+<content:encoded><![CDATA[<ul>
+<li><strong>Washington, DC:</strong> Partly sunny, high 66, low 51 tonight, light east winds around 5 mph. Rain is likely Sunday (70%). No alerts. <a href="https://forecast.weather.gov/MapClick.php?lat=38.8951&amp;lon=-77.0364">NWS</a></li>
+<li><strong>Boston, MA:</strong> Sunny, high 63 this morning, falling to around 57 this afternoon, low 48, east winds 2 to 8 mph. Rain is possible after 3 PM Sunday, ahead of a coastal storm Sunday night into Monday morning. No alerts. <a href="https://forecast.weather.gov/MapClick.php?lat=42.3601&amp;lon=-71.0589">NWS</a></li>
+<li><strong>Los Angeles, CA:</strong> Sunny, high 67, low 50, light west-northwest winds up to 5 mph. No alerts. <a href="https://forecast.weather.gov/MapClick.php?lat=34.0522&amp;lon=-118.2437">NWS</a></li>
+<li><strong>Cape Canaveral, FL:</strong> Showers likely between 11 AM and 1 PM, then a chance of thunderstorms (40%). High 79, easing to about 74 this afternoon, low 67, south winds 5 to 10 mph. A Flood Warning runs until 8 AM and a Rip Current Statement through 7 PM Sunday. Afternoon storms make launch weather iffy today; Sunday looks mostly sunny. <a href="https://forecast.weather.gov/MapClick.php?lat=28.3922&amp;lon=-80.6077">NWS</a></li>
+<li><strong>Boca Chica (Starbase), TX:</strong> Partly sunny, high 76, low 69, southeast winds 5 to 13 mph. No alerts, and conditions are benign. <a href="https://forecast.weather.gov/MapClick.php?lat=25.9971&amp;lon=-97.1566">NWS</a></li>
+</ul>]]></content:encoded>
+</item>
+<item>
+<title>★ NASA&#x27;s new Moon plan, and its open questions</title>
+<link>https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/</guid>
+<pubDate>Sat, 21 Nov 2026 06:46:03 -0500</pubDate>
+<category>Worth reading</category>
+<description><![CDATA[<p>After Starship's tower catch, Ars walks through what NASA's revised Artemis architecture still has to solve, starting with next year's orbital refueling demo.</p>]]></description>
+<content:encoded><![CDATA[<p>After Starship's tower catch, Ars walks through what NASA's revised Artemis architecture still has to solve, starting with next year's orbital refueling demo.</p>]]></content:encoded>
+</item>
+<item>
+<title>★ (poli sci) Democrats&#x27; secret weapon was likable candidates</title>
+<link>https://goodauthority.org/news/the-democrats-special-sauce-in-2026-popular-candidates/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://goodauthority.org/news/the-democrats-special-sauce-in-2026-popular-candidates/</guid>
+<pubDate>Sat, 21 Nov 2026 06:46:02 -0500</pubDate>
+<category>Worth reading</category>
+<description><![CDATA[<p>Using net-favorability polling from 15 Senate races, Good Authority argues voters simply liked the Democratic candidates more.</p>]]></description>
+<content:encoded><![CDATA[<p>Using net-favorability polling from 15 Senate races, Good Authority argues voters simply liked the Democratic candidates more.</p>]]></content:encoded>
+</item>
+<item>
+<title>★ Is the Riemann proof real?</title>
+<link>https://www.nature.com/articles/d41586-026-03812-7</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.nature.com/articles/d41586-026-03812-7</guid>
+<pubDate>Sat, 21 Nov 2026 06:46:01 -0500</pubDate>
+<category>Worth reading</category>
+<description><![CDATA[<p>Nature's careful take, with Fields medalist James Maynard calling it historic "if this fully checks out" and Andrew Granville calling the write-up "garbled."</p>]]></description>
+<content:encoded><![CDATA[<p>Nature's careful take, with Fields medalist James Maynard calling it historic "if this fully checks out" and Andrew Granville calling the write-up "garbled."</p>]]></content:encoded>
+</item>
+<item>
+<title>★ The popular-vote compact nears 270</title>
+<link>https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact</guid>
+<pubDate>Sat, 21 Nov 2026 06:46:00 -0500</pubDate>
+<category>Worth reading</category>
+<description><![CDATA[<p>NPR explains how full Democratic control of five more states could put the National Popular Vote Interstate Compact over the threshold, and the legal hurdles that would follow.</p>]]></description>
+<content:encoded><![CDATA[<p>NPR explains how full Democratic control of five more states could put the National Popular Vote Interstate Compact over the threshold, and the legal hurdles that would follow.</p>]]></content:encoded>
+</item>
+<item>
+<title>Senate GOP set to block two Pentagon picks (paywall)</title>
+<link>https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:59 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>Republicans won't advance two political nominees for key Pentagon policy jobs, including Austin Dahmer, nominated more than a year ago. The Army and Navy secretary nominees have also hit resistance, and so has the request for hundreds of billions in defense funding.</p>]]></description>
+<content:encoded><![CDATA[<p>Republicans won't advance two political nominees for key Pentagon policy jobs, including Austin Dahmer, nominated more than a year ago. The Army and Navy secretary nominees have also hit resistance, and so has the request for hundreds of billions in defense funding.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: Tillis holds the CISA nominee</title>
+<link>https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:58 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>The outgoing NC Republican's hold keeps Michael LoSapio, who wouldn't call Jan. 6 an attack, out of next month's nominations package, the last before the GOP loses its majority.</p>]]></description>
+<content:encoded><![CDATA[<p>The outgoing NC Republican's hold keeps Michael LoSapio, who wouldn't call Jan. 6 an attack, out of next month's nominations package, the last before the GOP loses its majority.</p>]]></content:encoded>
+</item>
+<item>
+<title>Judges sprint before January (paywall)</title>
+<link>https://www.bostonglobe.com/2026/11/21/nation/judges-senate-trump/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bostonglobe.com/2026/11/21/nation/judges-senate-trump/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:57 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>Outgoing Judiciary chair Grassley held markups on back-to-back Tuesdays to approve seven Trump judicial picks, then a hearing for seven more. One of them was nominated after losing his Texas Supreme Court seat on Nov. 3.</p>]]></description>
+<content:encoded><![CDATA[<p>Outgoing Judiciary chair Grassley held markups on back-to-back Tuesdays to approve seven Trump judicial picks, then a hearing for seven more. One of them was nominated after losing his Texas Supreme Court seat on Nov. 3.</p>]]></content:encoded>
+</item>
+<item>
+<title>Vance won&#x27;t say the Iran war was worth it</title>
+<link>https://www.foxnews.com/politics/trump-responds-vance-blames-iran-war-midterm-losses-vp-says-job-support-president</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.foxnews.com/politics/trump-responds-vance-blames-iran-war-midterm-losses-vp-says-job-support-president</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:56 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>He says his job is to support Trump. Trump says he'd still have launched the operation and that Vance's statement blaming the war for the midterm losses "was fine." Coverage splits: Fox stresses Trump brushing off talk of friction, while the Guardian casts Friday's presser as a 2028 succession audition between Vance and Rubio.</p>
+<p>Also: <a href="https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio">Guardian</a> · <a href="https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/">Washington Post</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>He says his job is to support Trump. Trump says he'd still have launched the operation and that Vance's statement blaming the war for the midterm losses "was fine." Coverage splits: Fox stresses Trump brushing off talk of friction, while the Guardian casts Friday's presser as a 2028 succession audition between Vance and Rubio.</p>
+<p>Also: <a href="https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio">Guardian</a> · <a href="https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/">Washington Post</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>2028 hopefuls start hinting at timelines (paywall)</title>
+<link>https://www.washingtonpost.com/politics/2026/11/21/presidential-hopefuls-start-hint-when-they-might-announce-their-bids/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.washingtonpost.com/politics/2026/11/21/presidential-hopefuls-start-hint-when-they-might-announce-their-bids/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:55 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>Prospective candidates are beginning to signal when they might announce.</p>]]></description>
+<content:encoded><![CDATA[<p>Prospective candidates are beginning to signal when they might announce.</p>]]></content:encoded>
+</item>
+<item>
+<title>Judge says Rollins&#x27;s religious emails broke the Constitution</title>
+<link>https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:54 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>A federal judge ruled that the Agriculture secretary's "proselytizing" Christian messages, sent to USDA staff from an official account, were unconstitutional.</p>
+<p>Also: <a href="https://www.washingtonpost.com/politics/2026/11/20/agriculture-secretarys-religious-emails-are-unconstitutional-judge-rules/">Washington Post</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>A federal judge ruled that the Agriculture secretary's "proselytizing" Christian messages, sent to USDA staff from an official account, were unconstitutional.</p>
+<p>Also: <a href="https://www.washingtonpost.com/politics/2026/11/20/agriculture-secretarys-religious-emails-are-unconstitutional-judge-rules/">Washington Post</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>FBI investigates an apparent hack of its criminal database</title>
+<link>https://www.bbc.co.uk/news/articles/cvze7de86pk3o</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/cvze7de86pk3o</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:53 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>The NCIC system, used nationwide for warrants and background checks, was reportedly breached. This follows last week's string of outages, which officials say weren't cyberattacks.</p>]]></description>
+<content:encoded><![CDATA[<p>The NCIC system, used nationwide for warrants and background checks, was reportedly breached. This follows last week's string of outages, which officials say weren't cyberattacks.</p>]]></content:encoded>
+</item>
+<item>
+<title>Watchdog finds ICE training problems (paywall)</title>
+<link>https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:52 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>An inspector general's review found a cascade of problems with ICE training during the immigration crackdown.</p>]]></description>
+<content:encoded><![CDATA[<p>An inspector general's review found a cascade of problems with ICE training during the immigration crackdown.</p>]]></content:encoded>
+</item>
+<item>
+<title>Kalshi faces a New York restraining order</title>
+<link>https://abcnews.com/US/kalshi-prediction-market-crippled-judge-grants-restraining-order/story?id=138329957</link>
+<guid isPermaLink="false">brief-2026-11-21::https://abcnews.com/US/kalshi-prediction-market-crippled-judge-grants-restraining-order/story?id=138329957</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:51 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>A federal judge sent AG Letitia James's suit back to state court. James then sought a TRO to stop Kalshi's unlicensed sports contracts, and the administration tried and failed to intervene.</p>]]></description>
+<content:encoded><![CDATA[<p>A federal judge sent AG Letitia James's suit back to state court. James then sought a TRO to stop Kalshi's unlicensed sports contracts, and the administration tried and failed to intervene.</p>]]></content:encoded>
+</item>
+<item>
+<title>Palisades fire arsonist convicted</title>
+<link>https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:50 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>A retrial jury found Jonathan Rinderknecht guilty on two federal charges for the January 2025 fire that killed 12 and destroyed more than 6,800 buildings. Sentencing is March 17, with 5 to 20 years possible.</p>]]></description>
+<content:encoded><![CDATA[<p>A retrial jury found Jonathan Rinderknecht guilty on two federal charges for the January 2025 fire that killed 12 and destroyed more than 6,800 buildings. Sentencing is March 17, with 5 to 20 years possible.</p>]]></content:encoded>
+</item>
+<item>
+<title>Roundup settlement approved</title>
+<link>https://www.bbc.co.uk/news/articles/cwvg21gyl650o</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/cwvg21gyl650o</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:49 -0500</pubDate>
+<category>US politics</category>
+<description><![CDATA[<p>A Missouri judge approved Bayer's $7.25B deal covering current and future non-Hodgkin lymphoma claims.</p>]]></description>
+<content:encoded><![CDATA[<p>A Missouri judge approved Bayer's $7.25B deal covering current and future non-Hodgkin lymphoma claims.</p>]]></content:encoded>
+</item>
+<item>
+<title>Russia hits Zelensky&#x27;s hometown</title>
+<link>https://wtop.com/world/2026/11/ballistic-missile-attack-on-zelenskyys-hometown-in-central-ukraine-kills-2-and-wounds-scores/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://wtop.com/world/2026/11/ballistic-missile-attack-on-zelenskyys-hometown-in-central-ukraine-kills-2-and-wounds-scores/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:48 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>A missile strike on Kryvyi Rih killed a 7-year-old boy and a 20-year-old woman and wounded 60. It damaged about 25 apartment buildings, a hospital and schools.</p>
+<p>Also: <a href="https://www.bostonglobe.com/2026/11/21/world/russian-attack-central-ukraine-zelenskyys-hometown/">Boston Globe</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>A missile strike on Kryvyi Rih killed a 7-year-old boy and a 20-year-old woman and wounded 60. It damaged about 25 apartment buildings, a hospital and schools.</p>
+<p>Also: <a href="https://www.bostonglobe.com/2026/11/21/world/russian-attack-central-ukraine-zelenskyys-hometown/">Boston Globe</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>Zelensky: Putin is &quot;a killer&quot;</title>
+<link>https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:47 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>He was answering Trump, who called Putin his "friend" in China. "For us, he is an enemy," Zelensky told CNN.</p>]]></description>
+<content:encoded><![CDATA[<p>He was answering Trump, who called Putin his "friend" in China. "For us, he is an enemy," Zelensky told CNN.</p>]]></content:encoded>
+</item>
+<item>
+<title>Kremlin seizes on US offer to talk European security</title>
+<link>https://wtop.com/national/2026/11/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://wtop.com/national/2026/11/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:46 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Moscow is embracing the US envoys' proposal to review Europe's broader security framework and using it to restate Putin's prewar demands. Kyiv and its allies fear it weakens NATO.</p>]]></description>
+<content:encoded><![CDATA[<p>Moscow is embracing the US envoys' proposal to review Europe's broader security framework and using it to restate Putin's prewar demands. Kyiv and its allies fear it weakens NATO.</p>]]></content:encoded>
+</item>
+<item>
+<title>Denmark: Russia plotted to kill a Ukrainian-American rapper</title>
+<link>https://www.bbc.co.uk/news/articles/cmde1lj4yjxno</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/cmde1lj4yjxno</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:45 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Danish intelligence says Russian services planned an attack on rapper Kyivstoner at a September concert near Copenhagen. Two people are charged, and Russia's defense attaché is being expelled. Moscow calls the claims unsubstantiated.</p>]]></description>
+<content:encoded><![CDATA[<p>Danish intelligence says Russian services planned an attack on rapper Kyivstoner at a September concert near Copenhagen. Two people are charged, and Russia's defense attaché is being expelled. Moscow calls the claims unsubstantiated.</p>]]></content:encoded>
+</item>
+<item>
+<title>Latvia wants the EU closed to all Russians</title>
+<link>https://www.politico.eu/article/latvian-leader-andris-kulbergs-calls-for-closure-of-eu-borders-to-all-russians/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.politico.eu/article/latvian-leader-andris-kulbergs-calls-for-closure-of-eu-borders-to-all-russians/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:44 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>PM Andris Kulbergs says the bloc can't vet hundreds of thousands of Russian tourists, and that there's no return to normal ties even after a ceasefire.</p>]]></description>
+<content:encoded><![CDATA[<p>PM Andris Kulbergs says the bloc can't vet hundreds of thousands of Russian tourists, and that there's no return to normal ties even after a ceasefire.</p>]]></content:encoded>
+</item>
+<item>
+<title>Hegseth quietly restricts US-Canada military ties (paywall)</title>
+<link>https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:43 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>A classified memo issued last week imposes new limits, though its scope is unclear. The Pentagon says intelligence sharing, NORAD and NATO cooperation are unaffected. Canadian military sources say they were never told and operations are normal. One US official called it a "slap in the face."</p>
+<p>Also: <a href="https://www.theglobeandmail.com/world/us-politics/article-no-change-to-canada-us-defence-co-operation-military-sources-say-amid/">Globe and Mail</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>A classified memo issued last week imposes new limits, though its scope is unclear. The Pentagon says intelligence sharing, NORAD and NATO cooperation are unaffected. Canadian military sources say they were never told and operations are normal. One US official called it a "slap in the face."</p>
+<p>Also: <a href="https://www.theglobeandmail.com/world/us-politics/article-no-change-to-canada-us-defence-co-operation-military-sources-say-amid/">Globe and Mail</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>Mexico captures &quot;El Chapo Isidro&quot;</title>
+<link>https://www.newsweek.com/fbis-most-wanted-drug-lord-chapo-isidro-captured-mexico-12751085</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.newsweek.com/fbis-most-wanted-drug-lord-chapo-isidro-captured-mexico-12751085</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:42 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Army and National Guard special forces seized Fausto Isidro Meza Flores, one of the FBI's Ten Most Wanted with a $5M reward, in Guasave, Sinaloa, with US intelligence help. Gun battles and blockades followed across the region.</p>
+<p>Also: <a href="https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html">El País (Spanish)</a> · <a href="https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html">New York Times</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>Army and National Guard special forces seized Fausto Isidro Meza Flores, one of the FBI's Ten Most Wanted with a $5M reward, in Guasave, Sinaloa, with US intelligence help. Gun battles and blockades followed across the region.</p>
+<p>Also: <a href="https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html">El País (Spanish)</a> · <a href="https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html">New York Times</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>Hormuz attacks hit a wartime high</title>
+<link>https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456</link>
+<guid isPermaLink="false">brief-2026-11-21::https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:41 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>UKMTO logged 31 attacks in October and about 19 so far in November, against 53 in all of March through September.</p>]]></description>
+<content:encoded><![CDATA[<p>UKMTO logged 31 attacks in October and about 19 so far in November, against 53 in all of March through September.</p>]]></content:encoded>
+</item>
+<item>
+<title>CBO: the Navy&#x27;s shipbuilding plan needs 41% more money</title>
+<link>https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:40 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>It would cost about $53.8B a year, against roughly $38.1B appropriated annually over the past five years.</p>]]></description>
+<content:encoded><![CDATA[<p>It would cost about $53.8B a year, against roughly $38.1B appropriated annually over the past five years.</p>]]></content:encoded>
+</item>
+<item>
+<title>UN &quot;killer robot&quot; talks punt to 2028</title>
+<link>https://wtop.com/world/2026/11/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://wtop.com/world/2026/11/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:39 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Countries agreed only to "elaborate" a possible accord on lethal autonomous weapons by 2028, with no binding rules.</p>]]></description>
+<content:encoded><![CDATA[<p>Countries agreed only to "elaborate" a possible accord on lethal autonomous weapons by 2028, with no binding rules.</p>]]></content:encoded>
+</item>
+<item>
+<title>COP31 deadlocked in overtime</title>
+<link>https://www.bbc.co.uk/news/articles/c6ly5w40eg07o</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/c6ly5w40eg07o</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:38 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Talks in Turkey ran through the night. A France- and Panama-led bloc is pushing back on a draft with no language on cutting fossil fuel demand, and African nations want more adaptation money. A new text is expected today.</p>]]></description>
+<content:encoded><![CDATA[<p>Talks in Turkey ran through the night. A France- and Panama-led bloc is pushing back on a draft with no language on cutting fossil fuel demand, and African nations want more adaptation money. A new text is expected today.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: UK-EU reset</title>
+<link>https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:37 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Foreign Secretary Ed Miliband says rejoining the EU could be "on the table" in Burnham's informal talks with European leaders. The deal lets 100,000 young Britons live and work in the EU, and Burnham claims it adds 0.5% to GDP.</p>]]></description>
+<content:encoded><![CDATA[<p>Foreign Secretary Ed Miliband says rejoining the EU could be "on the table" in Burnham's informal talks with European leaders. The deal lets 100,000 young Britons live and work in the EU, and Burnham claims it adds 0.5% to GDP.</p>]]></content:encoded>
+</item>
+<item>
+<title>UK, Burnham rebuffs Wales</title>
+<link>https://www.bbc.co.uk/news/articles/ck9874vydr83o</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/ck9874vydr83o</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:36 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>The PM rejected devolving policing and justice, the Crown Estate and rail to Cardiff. First Minister Rhun ap Iorwerth says he's "gobsmacked."</p>]]></description>
+<content:encoded><![CDATA[<p>The PM rejected devolving policing and justice, the Crown Estate and rail to Cardiff. First Minister Rhun ap Iorwerth says he's "gobsmacked."</p>]]></content:encoded>
+</item>
+<item>
+<title>EU budget, Costa cuts another €44B</title>
+<link>https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:35 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>For the first time he targets cohesion funds (€8B less) while leaving farm subsidies untouched. That's a setback for 17 Eastern and Southern states, including Poland, Italy and Spain.</p>]]></description>
+<content:encoded><![CDATA[<p>For the first time he targets cohesion funds (€8B less) while leaving farm subsidies untouched. That's a setback for 17 Eastern and Southern states, including Poland, Italy and Spain.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: Spain votes Nov. 29</title>
+<link>https://www.bbc.co.uk/news/articles/cxr5g4lyp94no</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/cxr5g4lyp94no</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:34 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>The PP holds a small poll lead and could reach a majority with Vox after eight years of Sánchez.</p>]]></description>
+<content:encoded><![CDATA[<p>The PP holds a small poll lead and could reach a majority with Vox after eight years of Sánchez.</p>]]></content:encoded>
+</item>
+<item>
+<title>Italy, general strike against Meloni&#x27;s budget</title>
+<link>https://www.thelocal.it/20261120/were-the-majority-protests-across-italy-as-anger-at-melonis-government-grows</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.thelocal.it/20261120/were-the-majority-protests-across-italy-as-anger-at-melonis-government-grows</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:33 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>CGIL's 24-hour strike brought protests in more than 100 cities. Unions want higher wages and pensions, more for health and schools, and less spent on rearmament.</p>
+<p>Also: <a href="https://apnews.com/article/italy-europe-protests-strike-workers-students-inflation-8a742daa7242c84d99307c1fcc864f62">AP</a></p>]]></description>
+<content:encoded><![CDATA[<p>CGIL's 24-hour strike brought protests in more than 100 cities. Unions want higher wages and pensions, more for health and schools, and less spent on rearmament.</p>
+<p>Also: <a href="https://apnews.com/article/italy-europe-protests-strike-workers-students-inflation-8a742daa7242c84d99307c1fcc864f62">AP</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Germany cools on Ukraine aid</title>
+<link>https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:32 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>Almost half of Germans want support reduced or cut, a new survey finds.</p>]]></description>
+<content:encoded><![CDATA[<p>Almost half of Germans want support reduced or cut, a new survey finds.</p>]]></content:encoded>
+</item>
+<item>
+<title>France, police convicted in the Zecler beating</title>
+<link>https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:31 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>A court found three officers guilty of beating the Black music producer in 2020, with racism as an aggravating factor, and of falsifying their report.</p>]]></description>
+<content:encoded><![CDATA[<p>A court found three officers guilty of beating the Black music producer in 2020, with racism as an aggravating factor, and of falsifying their report.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: BepiColombo enters Mercury orbit today</title>
+<link>https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:30 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>The 37-minute insertion burn starts at 1:24 PM ET, eight years after launch, and carries ESA's MPO and JAXA's Mio orbiters.</p>]]></description>
+<content:encoded><![CDATA[<p>The 37-minute insertion burn starts at 1:24 PM ET, eight years after launch, and carries ESA's MPO and JAXA's Mio orbiters.</p>]]></content:encoded>
+</item>
+<item>
+<title>Perseverance and Odyssey pause science</title>
+<link>https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:29 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>Perseverance's main UHF radio failed and its backup is at half power, so it's talking directly to the Deep Space Network. NASA hopes it's back by the end of November. Odyssey lost a second reaction wheel on Nov. 4. If that wheel can't be recovered, the orbiter has only a month or two of hydrazine left to point itself with thrusters.</p>]]></description>
+<content:encoded><![CDATA[<p>Perseverance's main UHF radio failed and its backup is at half power, so it's talking directly to the Deep Space Network. NASA hopes it's back by the end of November. Odyssey lost a second reaction wheel on Nov. 4. If that wheel can't be recovered, the orbiter has only a month or two of hydrazine left to point itself with thrusters.</p>]]></content:encoded>
+</item>
+<item>
+<title>Himes threatens SpaceX&#x27;s government funding over Starshield in Ukraine</title>
+<link>https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:28 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>The incoming House Intelligence chair wrote Musk that SpaceX's "potentially unilateral modification" of a contract "calls into question every contract" it has with the government. He also sent DNI Jay Clayton a classified note to the same effect.</p>]]></description>
+<content:encoded><![CDATA[<p>The incoming House Intelligence chair wrote Musk that SpaceX's "potentially unilateral modification" of a contract "calls into question every contract" it has with the government. He also sent DNI Jay Clayton a classified note to the same effect.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: SpaceX&#x27;s chip-backed debt</title>
+<link>https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:27 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>Lenders on the $43B package secured by AI chips have tried to bar Musk from launching that collateral into space for orbital data centers.</p>]]></description>
+<content:encoded><![CDATA[<p>Lenders on the $43B package secured by AI chips have tried to bar Musk from launching that collateral into space for orbital data centers.</p>]]></content:encoded>
+</item>
+<item>
+<title>Falcon 9 flies classified USSF-317</title>
+<link>https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:26 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>It lifted off from Vandenberg at 11:20 PM ET Friday. Booster B1100 landed on "Of Course I Still Love You" after its 11th flight.</p>]]></description>
+<content:encoded><![CDATA[<p>It lifted off from Vandenberg at 11:20 PM ET Friday. Booster B1100 landed on "Of Course I Still Love You" after its 11th flight.</p>]]></content:encoded>
+</item>
+<item>
+<title>GomSpace wins €8M for Blue Origin lunar prospecting sats</title>
+<link>https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:25 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>The Danish firm is building two spacecraft that will orbit the Moon to map resources.</p>]]></description>
+<content:encoded><![CDATA[<p>The Danish firm is building two spacecraft that will orbit the Moon to map resources.</p>]]></content:encoded>
+</item>
+<item>
+<title>Scientists urge a pause on lunar industry</title>
+<link>https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:24 -0500</pubDate>
+<category>Space</category>
+<description><![CDATA[<p>Researchers want a temporary moratorium on mining and industrial use of the Moon until rules catch up with US and Chinese settlement plans.</p>]]></description>
+<content:encoded><![CDATA[<p>Researchers want a temporary moratorium on mining and industrial use of the Moon until rules catch up with US and Chinese settlement plans.</p>]]></content:encoded>
+</item>
+<item>
+<title>AI-assisted Riemann hypothesis proof claimed</title>
+<link>https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8</link>
+<guid isPermaLink="false">brief-2026-11-21::https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:23 -0500</pubDate>
 <category>Science and technology</category>
-<description><![CDATA[<p>Reuters reports SEC enforcement staff are examining potential accounting issues at Nvidia; the stock had its worst day since Jan 2025 (~$485B lost Friday) and worst week since 2008, now ~$2.7T off its Oct 6 peak.</p>]]></description>
-<content:encoded><![CDATA[<p>Reuters reports SEC enforcement staff are examining potential accounting issues at Nvidia; the stock had its worst day since Jan 2025 (~$485B lost Friday) and worst week since 2008, now ~$2.7T off its Oct 6 peak.</p>]]></content:encoded>
+<description><![CDATA[<p>Anthropic mathematician Levent Alpöge says he used a non-public Claude over about six weeks. MIT's Andrew Sutherland independently compiled and kernel-checked the Lean code and says the chance "anything is fishy" is "approximately zero," though final comparator checks are still running. Skeptics question the timing right after the IPO, and a human-readable proof still has to be written.</p>
+<p>Also: <a href="https://www.bbc.co.uk/news/articles/c6pqr2g7w059o">BBC</a> · <a href="https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/">Scientific American</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>Anthropic mathematician Levent Alpöge says he used a non-public Claude over about six weeks. MIT's Andrew Sutherland independently compiled and kernel-checked the Lean code and says the chance "anything is fishy" is "approximately zero," though final comparator checks are still running. Skeptics question the timing right after the IPO, and a human-readable proof still has to be written.</p>
+<p>Also: <a href="https://www.bbc.co.uk/news/articles/c6pqr2g7w059o">BBC</a> · <a href="https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/">Scientific American</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>New science PhD enrollment fell 11% (paywall)</title>
+<link>https://www.bostonglobe.com/2026/11/20/nation/new-phd-enrollment-sciences-dropped-10-under-trump/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.bostonglobe.com/2026/11/20/nation/new-phd-enrollment-sciences-dropped-10-under-trump/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:22 -0500</pubDate>
+<category>Science and technology</category>
+<description><![CDATA[<p>Top research universities enrolled about 5,100 fewer new doctoral students in 2025, mostly because fewer international students came.</p>]]></description>
+<content:encoded><![CDATA[<p>Top research universities enrolled about 5,100 fewer new doctoral students in 2025, mostly because fewer international students came.</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta rethinks its 2030 net-zero goal</title>
+<link>https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:21 -0500</pubDate>
+<category>Science and technology</category>
+<description><![CDATA[<p>Its emissions rose by a record percentage, the steepest of any Big Tech firm, as AI data centers come online.</p>]]></description>
+<content:encoded><![CDATA[<p>Its emissions rose by a record percentage, the steepest of any Big Tech firm, as AI data centers come online.</p>]]></content:encoded>
+</item>
+<item>
+<title>YouTube nears a $3B school-district settlement</title>
+<link>https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:20 -0500</pubDate>
+<category>Science and technology</category>
+<description><![CDATA[<p>Bloomberg reports an agreement in principle over "addictive design" claims, with new teen safeguards.</p>]]></description>
+<content:encoded><![CDATA[<p>Bloomberg reports an agreement in principle over "addictive design" claims, with new teen safeguards.</p>]]></content:encoded>
+</item>
+<item>
+<title>Google Assistant leaves smart speakers next year</title>
+<link>https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:19 -0500</pubDate>
+<category>Science and technology</category>
+<description><![CDATA[<p>Google says it will shut it off on its speakers.</p>]]></description>
+<content:encoded><![CDATA[<p>Google says it will shut it off on its speakers.</p>]]></content:encoded>
+</item>
+<item>
+<title>Astronomers watch a star swallow its companion</title>
+<link>https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:18 -0500</pubDate>
+<category>Science and technology</category>
+<description><![CDATA[<p>A Nature study tracks a star about seven times the Sun's mass in Andromeda engulfing its partner over a decade before erupting in late 2025. It's the first time this "common envelope" phase has been seen.</p>]]></description>
+<content:encoded><![CDATA[<p>A Nature study tracks a star about seven times the Sun's mass in Andromeda engulfing its partner over a decade before erupting in late 2025. It's the first time this "common envelope" phase has been seen.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: GTA VI officially made $3.79B on day one</title>
+<link>https://www.theverge.com/games/1036279/gta-vi-sales</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theverge.com/games/1036279/gta-vi-sales</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:17 -0500</pubDate>
+<category>Entertainment</category>
+<description><![CDATA[<p>Rockstar calls it the biggest entertainment launch in history, with 32.5M preorders. Comcast says the launch drove the busiest traffic day in its history.</p>
+<p>Also: <a href="https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history">IGN</a></p>]]></description>
+<content:encoded><![CDATA[<p>Rockstar calls it the biggest entertainment launch in history, with 32.5M preorders. Comcast says the launch drove the busiest traffic day in its history.</p>
+<p>Also: <a href="https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history">IGN</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Carly Rae Jepsen in GTA VI</title>
+<link>https://kotaku.com/grand-theft-auto-gta-6-run-away-with-me-carly-rae-jepsen-soundtrack-song-2000758993</link>
+<guid isPermaLink="false">brief-2026-11-21::https://kotaku.com/grand-theft-auto-gta-6-run-away-with-me-carly-rae-jepsen-soundtrack-song-2000758993</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:16 -0500</pubDate>
+<category>Entertainment</category>
+<description><![CDATA[<p>"Run Away With Me" plays in one of the first chapter's big moments.</p>]]></description>
+<content:encoded><![CDATA[<p>"Run Away With Me" plays in one of the first chapter's big moments.</p>]]></content:encoded>
+</item>
+<item>
+<title>The Witcher 4 will get a physical edition</title>
+<link>https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:15 -0500</pubDate>
+<category>Entertainment</category>
+<description><![CDATA[<p>CD Projekt confirms one, even though Sony plans to stop making PlayStation discs in January 2028. Whether it ships on an actual disc is still unclear.</p>]]></description>
+<content:encoded><![CDATA[<p>CD Projekt confirms one, even though Sony plans to stop making PlayStation discs in January 2028. Whether it ships on an actual disc is still unclear.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: Steam Machine price may rise</title>
+<link>https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:14 -0500</pubDate>
+<category>Entertainment</category>
+<description><![CDATA[<p>Valve says memory and storage costs are climbing at "unprecedented levels" as the last reservations ship.</p>]]></description>
+<content:encoded><![CDATA[<p>Valve says memory and storage costs are climbing at "unprecedented levels" as the last reservations ship.</p>]]></content:encoded>
+</item>
+<item>
+<title>Fincher defends AI amid the &quot;Cliff Booth&quot; backlash</title>
+<link>https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:13 -0500</pubDate>
+<category>Entertainment</category>
+<description><![CDATA[<p>"It exists. Should we not use it?" he told the LA Times.</p>]]></description>
+<content:encoded><![CDATA[<p>"It exists. Should we not use it?" he told the LA Times.</p>]]></content:encoded>
+</item>
+<item>
+<title>Patriots weigh QB options</title>
+<link>https://www.boston.com/sports/new-england-patriots/2026/11/20/there-are-too-many-reasons-for-the-patriots-not-to-sign-daniel-jones/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.boston.com/sports/new-england-patriots/2026/11/20/there-are-too-many-reasons-for-the-patriots-not-to-sign-daniel-jones/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:12 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>With Maye out long-term, the Pats are being linked to Daniel Jones after the Colts released him. Boston.com argues against it, citing his 2026 play and a $10M 2027 injury guarantee.</p>]]></description>
+<content:encoded><![CDATA[<p>With Maye out long-term, the Pats are being linked to Daniel Jones after the Colts released him. Boston.com argues against it, citing his 2026 play and a $10M 2027 injury guarantee.</p>]]></content:encoded>
+</item>
+<item>
+<title>Celtics at Kings tonight, 10 PM ET</title>
+<link>https://www.celticsblog.com/boston-celtics-news/150715/celtics-injury-report-sacramento-kings-jayson-tatum-derrick-white</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.celticsblog.com/boston-celtics-news/150715/celtics-injury-report-sacramento-kings-jayson-tatum-derrick-white</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:11 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>Tatum (rest) and Derrick White (left AC joint contusion) are questionable on the first night of a back-to-back, with Golden State on Sunday.</p>]]></description>
+<content:encoded><![CDATA[<p>Tatum (rest) and Derrick White (left AC joint contusion) are questionable on the first night of a back-to-back, with Golden State on Sunday.</p>]]></content:encoded>
+</item>
+<item>
+<title>Bruins open a six-game homestand vs. Washington, 7 PM</title>
+<link>https://bostonhockeynow.com/2026-11-20-bruins-practice-six-game-homestand-james-hagens-update/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://bostonhockeynow.com/2026-11-20-bruins-practice-six-game-homestand-james-hagens-update/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:10 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>Swayman starts against a Capitals team on a four-game skid. Sturm says James Hagens may begin light skating next week.</p>]]></description>
+<content:encoded><![CDATA[<p>Swayman starts against a Capitals team on a four-game skid. Sturm says James Hagens may begin light skating next week.</p>]]></content:encoded>
+</item>
+<item>
+<title>DC sports, Spirit play for the NWSL title tonight</title>
+<link>https://www.nbcnews.com/sports/soccer/nwsl-championship-final-washington-spirit-kansas-city-current-rcna609698</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.nbcnews.com/sports/soccer/nwsl-championship-final-washington-spirit-kansas-city-current-rcna609698</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:09 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>Washington hosts Kansas City at Audi Field at 8 PM ET in its third straight final, chasing a second championship after losing the last two.</p>]]></description>
+<content:encoded><![CDATA[<p>Washington hosts Kansas City at Audi Field at 8 PM ET in its third straight final, chasing a second championship after losing the last two.</p>]]></content:encoded>
+</item>
+<item>
+<title>Kane out for months</title>
+<link>https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:08 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>Bayern confirmed the ankle ligament injury, and he has had surgery.</p>]]></description>
+<content:encoded><![CDATA[<p>Bayern confirmed the ankle ligament injury, and he has had surgery.</p>]]></content:encoded>
+</item>
+<item>
+<title>Premier League returns</title>
+<link>https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:07 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>Arsenal visit Newcastle at 12:30 PM ET after this morning's Man City-Fulham opener.</p>]]></description>
+<content:encoded><![CDATA[<p>Arsenal visit Newcastle at 12:30 PM ET after this morning's Man City-Fulham opener.</p>]]></content:encoded>
+</item>
+<item>
+<title>F1, Verstappen inherits the Vegas pole</title>
+<link>https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:06 -0500</pubDate>
+<category>Sports</category>
+<description><![CDATA[<p>Antonelli was fastest, but a five-place engine penalty drops him to sixth, leaving Russell alongside Verstappen. Both Ferraris went out in Q2. The race is tonight at 11 PM ET.</p>]]></description>
+<content:encoded><![CDATA[<p>Antonelli was fastest, but a five-place engine penalty drops him to sixth, leaving Russell alongside Verstappen. Both Ferraris went out in Q2. The race is tonight at 11 PM ET.</p>]]></content:encoded>
+</item>
+<item>
+<title>Update: a second judge blocks Trump&#x27;s arch</title>
+<link>https://apnews.com/article/trump-arch-virginia-judge-brinkema-f7b9b0a0480481505038d007bf270cd9</link>
+<guid isPermaLink="false">brief-2026-11-21::https://apnews.com/article/trump-arch-virginia-judge-brinkema-f7b9b0a0480481505038d007bf270cd9</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:05 -0500</pubDate>
+<category>Local news</category>
+<description><![CDATA[<p>Judge Leonie Brinkema granted Arlington County an injunction barring all site work on the 250-foot Memorial Circle arch indefinitely. She cited the lack of congressional approval and thin environmental review.</p>
+<p>Also: <a href="https://www.washingtonpost.com/politics/2026/11/20/another-judge-blocks-trumps-arch-construction-second-blow-project/">Washington Post</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>Judge Leonie Brinkema granted Arlington County an injunction barring all site work on the 250-foot Memorial Circle arch indefinitely. She cited the lack of congressional approval and thin environmental review.</p>
+<p>Also: <a href="https://www.washingtonpost.com/politics/2026/11/20/another-judge-blocks-trumps-arch-construction-second-blow-project/">Washington Post</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>DC renters could soon Airbnb their homes</title>
+<link>https://www.axios.com/local/washington-dc/2026/11/20/airbnb-renters-dc</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.axios.com/local/washington-dc/2026/11/20/airbnb-renters-dc</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:04 -0500</pubDate>
+<category>Local news</category>
+<description><![CDATA[<p>A Council committee unanimously advanced a bill allowing it with landlord permission and a 90-day cap. A final vote is expected next month.</p>]]></description>
+<content:encoded><![CDATA[<p>A Council committee unanimously advanced a bill allowing it with landlord permission and a 90-day cap. A final vote is expected next month.</p>]]></content:encoded>
+</item>
+<item>
+<title>Princeton researcher detained by ICE at a DC airport</title>
+<link>https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:03 -0500</pubDate>
+<category>Local news</category>
+<description><![CDATA[<p>Eva Yi Xie was flying home after presenting at the neuroscience conference in DC and is being held in Virginia. Her lawyers say she has a pending asylum application.</p>
+<p>Also: <a href="https://www.washingtonpost.com/dc-md-va/2026/11/20/princeton-student-detained-by-ice-dc-airport-is-being-held-virginia/">Washington Post</a> (paywall)</p>]]></description>
+<content:encoded><![CDATA[<p>Eva Yi Xie was flying home after presenting at the neuroscience conference in DC and is being held in Virginia. Her lawyers say she has a pending asylum application.</p>
+<p>Also: <a href="https://www.washingtonpost.com/dc-md-va/2026/11/20/princeton-student-detained-by-ice-dc-airport-is-being-held-virginia/">Washington Post</a> (paywall)</p>]]></content:encoded>
+</item>
+<item>
+<title>Virginia child dies of measles</title>
+<link>https://abcnews.com/Health/child-measles-dies-virginia-marking-states-1st-measles/story?id=138330916</link>
+<guid isPermaLink="false">brief-2026-11-21::https://abcnews.com/Health/child-measles-dies-virginia-marking-states-1st-measles/story?id=138330916</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:02 -0500</pubDate>
+<category>Local news</category>
+<description><![CDATA[<p>The child, age 0 to 4, is the state's first measles death of 2026 and the 12th reported nationally this year.</p>]]></description>
+<content:encoded><![CDATA[<p>The child, age 0 to 4, is the state's first measles death of 2026 and the 12th reported nationally this year.</p>]]></content:encoded>
+</item>
+<item>
+<title>Boston, $2.99 gas in Dorchester</title>
+<link>https://www.cbsnews.com/boston/news/boston-gas-station-drops-price-below-3-dollars-gallon/</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.cbsnews.com/boston/news/boston-gas-station-drops-price-below-3-dollars-gallon/</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:01 -0500</pubDate>
+<category>Local news</category>
+<description><![CDATA[<p>Gibbs Gas &amp; Auto is undercutting the $3.89 Massachusetts average to "help our neighbors" before Thanksgiving.</p>]]></description>
+<content:encoded><![CDATA[<p>Gibbs Gas &amp; Auto is undercutting the $3.89 Massachusetts average to "help our neighbors" before Thanksgiving.</p>]]></content:encoded>
+</item>
+<item>
+<title>Bay State clout in the new Congress</title>
+<link>https://www.wbur.org/news/2026/11/20/blue-wave-clark-pressley-warren-banking-house</link>
+<guid isPermaLink="false">brief-2026-11-21::https://www.wbur.org/news/2026/11/20/blue-wave-clark-pressley-warren-banking-house</guid>
+<pubDate>Sat, 21 Nov 2026 06:45:00 -0500</pubDate>
+<category>Local news</category>
+<description><![CDATA[<p>Katherine Clark is set to be the first woman House majority leader, and Elizabeth Warren is poised for a long-coveted Senate committee chair.</p>]]></description>
+<content:encoded><![CDATA[<p>Katherine Clark is set to be the first woman House majority leader, and Elizabeth Warren is poised for a long-coveted Senate committee chair.</p>]]></content:encoded>
 </item>
 <item>
 <title>Weather: Friday, Nov 20</title>
