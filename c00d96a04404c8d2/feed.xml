@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Dillon&#x27;s Morning Brief</title>
+<title>DILLON DAILY</title>
 <link>https://raw.githubusercontent.com/dmacinnis88/5163f7e03b770a59/main/c00d96a04404c8d2/feed.xml</link>
-<description>Curated articles from the daily morning brief</description>
+<description>Curated articles from the daily DILLON DAILY brief</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 06:59:16 -0500</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 10:53:19 -0500</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/dmacinnis88/5163f7e03b770a59/main/c00d96a04404c8d2/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>UN COP31 climate talks collapse without a deal over fossil fuels</title>
+<link>https://apnews.com/article/climate-un-turkey-fossil-fuels-global-warming-f6e36c4caf13ec6fed57c9f077cbd067</link>
+<guid isPermaLink="false">alert-2026-11-22::https://apnews.com/article/climate-un-turkey-fossil-fuels-global-warming-f6e36c4caf13ec6fed57c9f077cbd067</guid>
+<pubDate>Sun, 22 Nov 2026 10:53:19 -0500</pubDate>
+<category>Foreign affairs and defense</category>
+<description><![CDATA[<p>COP31 in Antalya ended Sunday after two days of overtime with no agreement; the EU, Panama and climate-vulnerable nations rejected a text that dropped any reference to fossil fuels, while Russia and Saudi Arabia opposed transition language. Guterres called it deeply disappointing.</p>]]></description>
+<content:encoded><![CDATA[<p>COP31 in Antalya ended Sunday after two days of overtime with no agreement; the EU, Panama and climate-vulnerable nations rejected a text that dropped any reference to fossil fuels, while Russia and Saudi Arabia opposed transition language. Guterres called it deeply disappointing.</p>]]></content:encoded>
+</item>
 <item>
 <title>Weather: Sunday, Nov 22</title>
 <link>https://forecast.weather.gov/MapClick.php?lat=38.8951&amp;lon=-77.0364</link>
